@@ -24,6 +24,6 @@ As of July 12th, 2019
 ### Visualization Displays
 * [WordTree](https://www.jasondavies.com/wordtree/) by Jason Davies
 * [ScatterText](https://github.com/JasonKessler/scattertext) by Jason Kessler
-* [HexBin Map]([https://observablehq.com/@d3/hexbin-map](https://observablehq.com/@d3/hexbin-map)) by Mike Bostock
-* [Scatterplot Matrix]([https://observablehq.com/@d3/hexbin-map](https://observablehq.com/@d3/hexbin-map)) by Mike Bostock
-* [Circular Dendogram]([https://www.r-graph-gallery.com/339-circular-dendrogram-with-ggraph/]) by Yan Holtz
+* [HexBin Map](https://observablehq.com/@d3/hexbin-map](https://observablehq.com/@d3/hexbin-map) by Mike Bostock
+* [Scatterplot Matrix](https://observablehq.com/@d3/hexbin-map](https://observablehq.com/@d3/hexbin-map) by Mike Bostock
+* [Circular Dendogram](https://www.r-graph-gallery.com/339-circular-dendrogram-with-ggraph/) by Yan Holtz
